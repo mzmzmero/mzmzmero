@@ -1,65 +1,109 @@
-## Hey 👋, I'm Hassan Mohamed Hassan!
-<a href='https://www.linkedin.com/in/your-profile/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/your-profile/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-<a href='https://www.kaggle.com/your-profile/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
+<!-- GitHub README.md for Hassan Mohamed Hassan -->
+<div align="center">
 
-I'm an AI Engineering student 💻 passionate about software development and learning new technologies. I love exploring modern tech stacks 🛠️ and using them to build practical projects.
-<br/>
-<br/>
+# 👋 Hello there! I'm Hassan Mohamed Hassan
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-  
-### 🧐 More About Me:
+### AI Engineering Student & Software Developer
 
-- 🎓 &nbsp; Currently studying **Artificial Intelligence Engineering**
-- 🔭 &nbsp; Working on **Library Management System**
-- 🌱 &nbsp; Learning **Deep Learning and Data Processing**
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mzmzmero?tab=repositories)
-- 💬 &nbsp; Ask me about anything programming related, I'm happy to help
-- 📫 &nbsp; Reach me on [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- 📚 &nbsp; In my free time, I read about technology and AI fields
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=F7E7A0&center=true&vCenter=true&width=600&lines=Passionate+about+Data+Analysis+%26+AI;Building+Intelligent+Systems;Optimizing+Productivity+Solutions" alt="Typing SVG" />
+</div>
 
-<br>
-
-### 🔨 Languages and Tools:
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank"><img align="left" alt="C++" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c++/c++.svg"></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img align="left" alt="C#" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/csharp/csharp.svg"></a>
-<a href="https://www.mysql.com/" target="_blank"><img align="left" alt="SQL" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/mysql/mysql.svg"></a>
-<a href="https://numpy.org/" target="_blank"><img align="left" alt="NumPy" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/numpy/numpy.svg"></a>
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"><img align="left" alt="ASP.NET" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/aspnet/aspnet.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/></a>
-<a href="https://visualstudio.microsoft.com/" target="_blank"><img align="left" alt="Visual Studio" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/visualstudio/visualstudio.svg"></a>
-
-<br>
-
-### 📊 Github Stats
-![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mzmzmero&show_icons=true&theme=radical)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mzmzmero&layout=compact&theme=radical)
-
-<br>
-
-### 🛠️ My Projects
-<a href="https://github.com/mzmzmero/Library-Management-System" target="_blank"> <img alt="library" src="https://via.placeholder.com/150x68/7289DA/FFFFFF?text=Library+System" height="68" align="left"> </a>
-<a href="https://github.com/mzmzmero/your-project" target="_blank"> <img alt="project2" src="https://via.placeholder.com/150x68/7289DA/FFFFFF?text=AI+Project" height="68" align="left"> </a>
-<a href="https://github.com/mzmzmero/your-project" target="_blank"> <img alt="project3" src="https://via.placeholder.com/150x68/7289DA/FFFFFF?text=C%23+App" height="68" align="left"> </a>
-
-<br>
-<br>
-<br>
-<br>
-<br>
+</div>
 
 ---
 
-### 📈 My Coding Journey
+## 🧠 About Me
 
-```mermaid
-graph TD
-    A[Start Journey] --> B[C++ Basics]
-    B --> C[SQL Databases]
-    C --> D[Desktop Development with C#]
-    D --> E[Python Programming]
-    E --> F[AI & Machine Learning]
-    F --> G[Full Projects]
+I'm an AI Engineering student with a strong passion for developing intelligent solutions that bridge the gap between data analysis and practical applications. My focus lies in creating systems that optimize productivity and deliver meaningful insights through data-driven approaches. I believe in writing clean, efficient code and continuously learning about emerging technologies in the AI landscape.
+
+---
+
+## 🛠️ Languages & Tools
+
+<div align="center">
+
+### Programming Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Data Science & AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-252525?style=for-the-badge&logo=metasploit&logoColor=white)
+
+</div>
+
+---
+
+## 💼 Featured Projects
+
+### 📚 Library Management System
+A comprehensive library management solution with advanced data analytics capabilities for tracking book usage patterns, reader preferences, and inventory optimization.
+
+**Technologies:** C# • .NET • SQL • Data Analytics • ASP.NET
+
+### 🚗 Car Rental Management System
+Full-stack application for managing car rental operations, including fleet management, booking system, and customer relationship management.
+
+**Technologies:** Java • Oracle • HTML • CSS • JavaScript
+
+### 💊 Pharmacy Management System
+Inventory and sales management system for pharmaceutical operations with intelligent stock prediction and sales analytics.
+
+**Technologies:** Python • NumPy • Pandas • SQL • Data Analysis
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=HassanMohamedHassan&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=F7E7A0&icon_color=F7E7A0)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanMohamedHassan&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=F7E7A0&text_color=FFFFFF)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HassanMohamedHassan&theme=dark&background=000000&hide_border=true&stroke=F7E7A0&ring=F7E7A0&fire=F7E7A0&currStreakLabel=F7E7A0)
+
+</div>
+
+---
+
+## 📬 Contact Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-marwanmezr@gmail.com-F7E7A0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marwanmezr@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-F7E7A0?style=for-the-badge&logo=internet-explorer&logoColor=black)](#)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎯 Philosophy
+
+> <span style="color:#F7E7A0">✨ "Whoever said the heart can be tamed has lied — it rides its owner like a wild stallion." ✨</span>
+
+</div>
